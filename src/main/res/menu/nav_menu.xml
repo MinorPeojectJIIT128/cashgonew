@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Home"
+        android:icon="@mipmap/ic_home_black_24dp"
+        android:title="Home"/>
+
+    <item android:id="@+id/trans"
+        android:icon="@mipmap/ic_account_balance_wallet_black_24dp"
+        android:title="My Transactions"/>
+
+    <item android:id="@+id/wallet"
+        android:icon="@mipmap/ic_card_travel_black_24dp"
+        android:title="Wallet"/>
+
+    <item android:id="@+id/rate"
+        android:icon="@mipmap/ic_star_rate_black_18dp"
+        android:title="Rate Us"/>
+
+    <item android:id="@+id/about"
+        android:icon="@mipmap/ic_accessibility_black_18dp"
+        android:title="About"/>
+
+    <item android:id="@+id/contact"
+        android:icon="@mipmap/ic_contact_phone_black_18dp"
+        android:title="Contact Us"/>
+</menu>
